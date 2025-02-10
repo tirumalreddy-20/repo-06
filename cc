@@ -1,2 +1,3 @@
 one is edited line
-thired is line 
+rebase is edited
+
